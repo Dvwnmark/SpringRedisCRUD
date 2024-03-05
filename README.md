@@ -25,7 +25,7 @@
 <dependency>
    <groupId>redis.clients</groupId>
    <artifactId>jedis</artifactId>
-   <version>3.3.0</version>
+   <version>5.1.0</version>
 </dependency>
 ```
 ## Configure Spring Datasource, JPA, App properties
